@@ -1,7 +1,7 @@
 ### Hi 
-I'm a college student learning IT.\n
-I'm here to learn about automation, app development or others areas. 
-I would happily collaborate on projects
+-I'm a college student learning IT.
+-I'm here to learn about automation, app development or others areas. 
+-I would happily collaborate on projects
 
 <!--
 **SharDassaut/SharDassaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
